@@ -3,7 +3,6 @@
 
 - 💼 I’m currently working on **Python projects and game developments**
 - 🌱 I’m currently learning **Python**
-- 💬 Ask me about **React, Nextjs, Web development**
 - 📫 How to reach me **baruwal20@gmail.com**
 
 ### Connect with me:
