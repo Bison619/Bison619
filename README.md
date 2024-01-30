@@ -13,6 +13,6 @@
 
 ### Languages and Tools i Use
 
-![](https://skillicons.dev/icons?i=django,py,js,php,mysql,figma,html,css,wordpress)
+![](https://skillicons.dev/icons?i=django,py,html,css,php,mysql,figma,wordpress)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bison619&show_icons=true&locale=en&layout=compact" alt="bison619" /></p>
