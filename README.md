@@ -11,7 +11,7 @@
 <a href="https://instagram.com/aman.baruwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman.baruwal" height="30" width="40" /></a>
 </p>
 
-### Languages and Tools i Use
+### Languages and Tools I'm Familiar With :
 
 ![](https://skillicons.dev/icons?i=django,py,html,css,php,mysql,figma,wordpress)
 
