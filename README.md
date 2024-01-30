@@ -4,7 +4,7 @@
 - 💼 I’m currently working on **Personal django projects**
 - 🌱 I’m currently learning **Python and Django**
 - 📫 How to reach me **baruwal20@gmail.com**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bison619&label=Profile%20views&color=0e75b6&style=flat" alt="bison619" /> </p>
+
 
 ### Connect with me:
 <p align="left">
