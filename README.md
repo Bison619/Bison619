@@ -1,7 +1,7 @@
 # Hello !  I am Aman Baruwal 👋
 
 - 🌱 I’m learning **Python**
-- 💼 I’m currently working on **Personal Python and Django projects**
+- 💼 I’m currently working on **ML projects**
 - 📫 How to reach me **baruwal20@gmail.com Or <a href="https://instagram.com/aman.baruwal" target="blank">Instagram</a>** 
 
 
